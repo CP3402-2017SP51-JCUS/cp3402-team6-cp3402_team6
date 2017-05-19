@@ -7,3 +7,35 @@
 [14-May-2017 08:50:38 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/charlie4/public_html/bluemarble/wp-content/themes/marblesmania/header.php on line 12
 [14-May-2017 08:51:00 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/charlie4/public_html/bluemarble/wp-content/themes/marblesmania/header.php on line 12
 [14-May-2017 08:51:10 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/charlie4/public_html/bluemarble/wp-content/themes/marblesmania/header.php on line 12
+[15-May-2017 17:31:18 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/charlie4/public_html/bluemarble/wp-content/themes/sugarcane/header.php on line 11
+[18-May-2017 16:07:43 UTC] PHP Warning:  require_once(/home/charlie4/public_html/bluemarble/wp-content/themes/dominos/includes/dominos-pro/class-customize.php) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory in /home/charlie4/public_html/bluemarble/wp-content/themes/dominos/functions.php on line 27
+[18-May-2017 16:07:43 UTC] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required '/home/charlie4/public_html/bluemarble/wp-content/themes/dominos/includes/dominos-pro/class-customize.php' (include_path='.:/usr/local/php53/pear') in /home/charlie4/public_html/bluemarble/wp-content/themes/dominos/functions.php on line 27
+[18-May-2017 16:12:00 UTC] PHP Warning:  require_once(/home/charlie4/public_html/bluemarble/wp-content/themes/dominos/includes/dominos-pro/class-customize.php) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory in /home/charlie4/public_html/bluemarble/wp-content/themes/dominos/functions.php on line 27
+[18-May-2017 16:12:00 UTC] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required '/home/charlie4/public_html/bluemarble/wp-content/themes/dominos/includes/dominos-pro/class-customize.php' (include_path='.:/usr/local/php53/pear') in /home/charlie4/public_html/bluemarble/wp-content/themes/dominos/functions.php on line 27
+[18-May-2017 16:13:38 UTC] PHP Fatal error:  Call to undefined function vogue_is_woocommerce_activated() in /home/charlie4/public_html/bluemarble/wp-content/themes/dominos/templates/header/header-layout-one.php on line 77
+[18-May-2017 16:14:38 UTC] PHP Parse error:  syntax error, unexpected '>' in /home/charlie4/public_html/bluemarble/wp-content/themes/dominos/page.php on line 30
+[18-May-2017 16:15:40 UTC] PHP Parse error:  syntax error, unexpected '>' in /home/charlie4/public_html/bluemarble/wp-content/themes/dominos/page.php on line 30
+[18-May-2017 16:18:27 UTC] PHP Parse error:  syntax error, unexpected '>' in /home/charlie4/public_html/bluemarble/wp-content/themes/dominos/page.php on line 30
+[18-May-2017 16:24:09 UTC] PHP Fatal error:  require() [<a href='function.require'>function.require</a>]: Failed opening required '/home/charlie4/public_html/bluemarble/wp-content/themes/dominos/upgrade/upgrade.php' (include_path='.:/usr/local/php53/pear') in /home/charlie4/public_html/bluemarble/wp-content/themes/dominos/functions.php on line 10
+[18-May-2017 16:33:58 UTC] PHP Fatal error:  Call to undefined function dominos_posted_on() in /home/charlie4/public_html/bluemarble/wp-content/themes/dominos/templates/contents/content.php on line 24
+[18-May-2017 16:34:25 UTC] PHP Parse error:  syntax error, unexpected '>' in /home/charlie4/public_html/bluemarble/wp-content/themes/dominos/page.php on line 30
+[18-May-2017 16:34:29 UTC] PHP Parse error:  syntax error, unexpected '>' in /home/charlie4/public_html/bluemarble/wp-content/themes/dominos/page.php on line 30
+[18-May-2017 16:34:32 UTC] PHP Parse error:  syntax error, unexpected '>' in /home/charlie4/public_html/bluemarble/wp-content/themes/dominos/page.php on line 30
+[18-May-2017 16:34:39 UTC] PHP Parse error:  syntax error, unexpected '>' in /home/charlie4/public_html/bluemarble/wp-content/themes/dominos/page.php on line 30
+[18-May-2017 16:39:11 UTC] PHP Parse error:  syntax error, unexpected '>' in /home/charlie4/public_html/bluemarble/wp-content/themes/dominos/page.php on line 30
+[18-May-2017 16:40:19 UTC] PHP Parse error:  syntax error, unexpected '>' in /home/charlie4/public_html/bluemarble/wp-content/themes/dominos/page.php on line 30
+[18-May-2017 16:44:45 UTC] PHP Fatal error:  Call to undefined function dominos_posted_on() in /home/charlie4/public_html/bluemarble/wp-content/themes/dominos/templates/contents/content.php on line 24
+[18-May-2017 16:45:09 UTC] PHP Parse error:  syntax error, unexpected '>' in /home/charlie4/public_html/bluemarble/wp-content/themes/dominos/single.php on line 25
+[18-May-2017 16:45:10 UTC] PHP Parse error:  syntax error, unexpected '>' in /home/charlie4/public_html/bluemarble/wp-content/themes/dominos/single.php on line 25
+[18-May-2017 17:25:59 UTC] PHP Fatal error:  Call to undefined function dominos_posted_on() in /home/charlie4/public_html/bluemarble/wp-content/themes/dominos/templates/contents/content.php on line 24
+[18-May-2017 21:12:32 UTC] PHP Parse error:  syntax error, unexpected '=' in /home/charlie4/public_html/bluemarble/wp-content/themes/t6_theme/footer.php on line 19
+[18-May-2017 21:13:17 UTC] PHP Parse error:  syntax error, unexpected T_LNUMBER in /home/charlie4/public_html/bluemarble/wp-content/themes/t6_theme/footer.php on line 19
+[18-May-2017 21:14:16 UTC] PHP Warning:  printf() [<a href='function.printf'>function.printf</a>]: Too few arguments in /home/charlie4/public_html/bluemarble/wp-content/themes/t6_theme/footer.php on line 19
+[19-May-2017 10:26:56 UTC] PHP Parse error:  syntax error, unexpected '>' in /home/charlie4/public_html/bluemarble/wp-content/themes/t6_theme/header.php on line 17
+[19-May-2017 20:22:46 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/charlie4/public_html/bluemarble/wp-content/themes/t6_theme/functions.php on line 133
+[19-May-2017 20:26:01 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/charlie4/public_html/bluemarble/wp-content/themes/t6_theme/functions.php on line 133
+[19-May-2017 20:26:02 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/charlie4/public_html/bluemarble/wp-content/themes/t6_theme/functions.php on line 133
+[19-May-2017 20:27:32 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/charlie4/public_html/bluemarble/wp-content/themes/t6_theme/functions.php on line 133
+[19-May-2017 20:28:20 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/charlie4/public_html/bluemarble/wp-content/themes/t6_theme/functions.php on line 133
+[19-May-2017 20:28:22 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/charlie4/public_html/bluemarble/wp-content/themes/t6_theme/functions.php on line 133
+[19-May-2017 20:28:24 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/charlie4/public_html/bluemarble/wp-content/themes/t6_theme/functions.php on line 133
