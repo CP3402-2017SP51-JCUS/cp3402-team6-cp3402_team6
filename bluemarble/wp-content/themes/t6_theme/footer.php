@@ -1,10 +1,4 @@
 <?php
-/**
- * The template for displaying the footer.
- *
- * @package T6_Theme
- * @since T6_Theme 1.0
- */
 ?>
 
 		</div><!-- #main -->
